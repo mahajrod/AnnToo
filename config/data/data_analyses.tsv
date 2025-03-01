@@ -1,0 +1,15 @@
+data_type	long_reads	paired	fastqc	kraken_scan	coverage_track
+illumina	False	True	True	True	True
+bgiseq	False	True	True	True	True
+linked_reads	False	True	True	True	True
+hic	False	True	True	True	False
+pore-c	True	False	False	True	False
+hifi	True	False	True	True	True
+isoseq	True	False	True	True	True
+clr	True	False	True	True	True
+lqccs	True	False	True	True	True
+simplex	True	False	False	True	True
+duplex	True	False	False	True	True
+protein	False	False	False	False	False
+reference	False	False	False	False	False
+draft	False	False	False	False	False

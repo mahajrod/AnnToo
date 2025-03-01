@@ -1,0 +1,13 @@
+RNAseq illumina reads
+Folder structure must follow template below:
+input/
+    illumina/
+        {LIBRARY_1}/
+            {FILE_FORMAT}/
+                {READ_FILES}/
+        {LIBRARY_2}/
+            {FILE_FORMAT}/
+                {READ_FILES}/
+        {LIBRARY_3}/
+            {FILE_FORMAT}/
+                {READ_FILES}/

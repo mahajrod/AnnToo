@@ -1,0 +1,13 @@
+RNAseq IsoSeq reads
+Folder structure must follow template below:
+input/
+    isoseq/
+        {LIBRARY_1}/
+            {FILE_FORMAT}/
+                {READ_FILES}/
+        {LIBRARY_2}/
+            {FILE_FORMAT}/
+                {READ_FILES}/
+        {LIBRARY_3}/
+            {FILE_FORMAT}/
+                {READ_FILES}/

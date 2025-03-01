@@ -1,11 +1,12 @@
 data_type	long_reads	paired
 illumina	False	True
-bgiseq	False	True
+mgiseq	False	True
 linked_reads	False	True
 hic	False	True
 pore-c	True	False
 hifi	True	False
 isoseq	True	False
+isoseq_transcripts	True	False
 clr	True	False
 lqccs	True	False
 simplex	True	False

@@ -1,11 +1,12 @@
 data_type	fastq	fasta	bam	fast5	pod5
 illumina	True	True	True	False	False
-bgiseq	True	True	True	False	False
+mgiseq	True	True	True	False	False
 linked_reads	True	True	True	False	False
 hic	True	True	True	False	False
 pore-c	True	True	True	True	True
 hifi	True	True	True	False	False
 isoseq	True	True	True	False	False
+isoseq_transcripts	False	True	True	False	False
 clr	True	True	True	False	False
 lqccs	True	True	True	False	False
 simplex	True	True	True	True	True
